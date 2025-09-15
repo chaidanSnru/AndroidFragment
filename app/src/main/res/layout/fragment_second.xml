@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
-        android:text="This is the Second Fragment"
+        android:text="Second Fragment Send Data"
         android:textSize="24sp" />
 
 </FrameLayout>
